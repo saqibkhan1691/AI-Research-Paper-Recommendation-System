@@ -1143,9 +1143,7 @@ A suitable open-source license can be added when the project is finalized.
 # ⭐ Acknowledgement
 
 The project makes use of open-source technologies and publicly available academic metadata sources. The respective APIs and platforms remain the property of their respective organizations.
-## 👨‍💻 Contribution
 
-- Shivanshu Gautam – Project documentation and development
 
 ---
 
