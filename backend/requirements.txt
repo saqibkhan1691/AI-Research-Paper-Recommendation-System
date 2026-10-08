@@ -1,0 +1,8 @@
+﻿flask==3.0.3
+flask-cors==4.0.1
+python-dotenv==1.0.1
+requests==2.32.3
+scikit-learn==1.5.1
+nltk==3.8.1
+numpy==1.26.4
+pandas==2.2.2

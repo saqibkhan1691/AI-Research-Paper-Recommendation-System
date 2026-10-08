@@ -1144,6 +1144,7 @@ A suitable open-source license can be added when the project is finalized.
 
 The project makes use of open-source technologies and publicly available academic metadata sources. The respective APIs and platforms remain the property of their respective organizations.
 
+
 ---
 
 ## 🔖 Project Summary
